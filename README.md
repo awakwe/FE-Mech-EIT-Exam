@@ -35,6 +35,32 @@ Exam Specifications
 
 Key Topics and Knowledge Areas
 ------------------------------
+```
+| No. | Knowledge Area | Subtopics | Question Probability |
+| --- | --- | --- | --- |
+| 1. | General Engineering |  | ~55 questions |
+|  | 1.1 Mathematics | \- Algebra<br>- Trigonometry<br>- Calculus<br>- Linear Algebra<br>- Numerical Methods |  |
+|  | 1.2 Engineering Probability and Statistics | \- Descriptive Statistics<br>- Probability Distributions<br>- Estimation<br>- Hypothesis Testing |  |
+|  | 1.3 Engineering Economics | \- Time Value of Money<br>- Project Evaluation<br>- Depreciation<br>- Inflation |  |
+|  | 1.4 Statics | \- Equilibrium of Rigid Bodies<br>- Frames and Trusses<br>- Area Moment of Inertia |  |
+|  | 1.5 Dynamics | \- Kinematics<br>- Kinetics<br>- Work, Energy, and Power<br>- Impulse and Momentum |  |
+|  | 1.6 Mechanics of Materials | \- Stress and Strain<br>- Axial Loading<br>- Torsion<br>- Bending<br>- Combined Loads |  |
+|  | 1.7 Fluid Mechanics | \- Fluid Properties<br>- Fluid Statics<br>- Fluid Dynamics<br>- Turbomachinery |  |
+|  | 1.8 Thermodynamics | \- Energy, Work, and Heat<br>- First Law<br>- Second Law<br>- Cycles<br>- Mixtures |  |
+|  | 1.9 Material Science | \- Structure of Materials<br>- Properties<br>- Processing<br>- Performance |  |
+| 2. | Mechanical Engineering |  | ~55 questions |
+|  | 2.1 Heat Transfer | \- Conduction<br>- Convection<br>- Radiation<br>- Heat Exchangers<br>- Mass Transfer |  |
+|  | 2.2 Mechanical Design and Analysis | \- Static Failure Theories<br>- Fatigue<br>- Design Concepts<br>- Engineering Standards |  |
+|  | 2.3 Control Systems | \- Modeling<br>- Time Response<br>- Frequency Response<br>- Stability<br>- Controllers |  |
+|  | 2.4 Vibration | \- Single Degree of Freedom Systems<br>- Multi Degree of Freedom Systems<br>- Continuous Systems |  |
+|  | 2.5 Mechanical Measurement and Instrumentation | \- Sensors<br>- Measurement Systems<br>- Data Acquisition<br>- Uncertainty Analysis |  |
+|  | 2.6 HVAC and Refrigeration | \- Psychrometrics<br>- Heating and Cooling Loads<br>- Systems and Equipment<br>- Energy Conservation |  |
+|  | 2.7 Energy Conversion Systems | \- Power Cycles<br>- Combustion<br>- Renewable Energy<br>- Energy Storage Systems |  |
+|  | 2.8 Manufacturing Processes | \- Material Removal<br>- Forming<br>- Joining<br>- Additive Manufacturing<br>- Quality Control |  |
+```
+
+**Note:** The question probability indicates the approximate number of questions per topic on the FE Exam - Mechanical. The exact number of questions per topic may vary, as the distribution is based on the exam specifications provided by NCEES.
+
 
 ### General Engineering
 
