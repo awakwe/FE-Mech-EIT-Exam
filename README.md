@@ -14,18 +14,18 @@ comment:  This document is a simple LiaScript course example.
 # Fundumentals of Engineering Mechanical Engineer in Traing Exam
 
 
-FE Exam Mechanical Study Guide Outline
-======================================
+## FE Exam Mechanical Study Guide Outline
 
-Introduction
-------------
+
+## Introduction
+
 
 * Purpose of the FE Exam
 * Eligibility criteria
 * Exam duration and format
 
-Exam Specifications
--------------------
+## Exam Specifications
+
 
 * Total number of questions: 110 multiple-choice questions
 * Computer-based testing
@@ -33,8 +33,8 @@ Exam Specifications
 * Two main sections: General Engineering and Mechanical Engineering
 * Morning and afternoon sessions
 
-Key Topics and Knowledge Areas
-------------------------------
+## Key Topics and Knowledge Areas
+
 
 | No. | Knowledge Area | Subtopics | Question Probability |
 | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ Key Topics and Knowledge Areas
 **Note:** The question probability indicates the approximate number of questions per topic on the FE Exam - Mechanical. The exact number of questions per topic may vary, as the distribution is based on the exam specifications provided by NCEES.
 
 
-### General Engineering
+## General Engineering
 
 1. Mathematics
 2. Engineering Probability and Statistics
@@ -74,7 +74,7 @@ Key Topics and Knowledge Areas
 8. Thermodynamics
 9. Material Science
 
-### Mechanical Engineering
+## Mechanical Engineering
 
 1. Heat Transfer
 2. Mechanical Design and Analysis
@@ -85,8 +85,8 @@ Key Topics and Knowledge Areas
 7. Energy Conversion Systems
 8. Manufacturing Processes
 
-Distribution of Questions
--------------------------
+## Distribution of Questions
+
 
 * General Engineering: Approximately 55 questions
 * Mechanical Engineering: Approximately 55 questions
