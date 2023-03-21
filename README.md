@@ -35,7 +35,7 @@ Exam Specifications
 
 Key Topics and Knowledge Areas
 ------------------------------
-```
+
 | No. | Knowledge Area | Subtopics | Question Probability |
 | --- | --- | --- | --- |
 | 1. | General Engineering |  | ~55 questions |
@@ -57,7 +57,7 @@ Key Topics and Knowledge Areas
 |  | 2.6 HVAC and Refrigeration | \- Psychrometrics<br>- Heating and Cooling Loads<br>- Systems and Equipment<br>- Energy Conservation |  |
 |  | 2.7 Energy Conversion Systems | \- Power Cycles<br>- Combustion<br>- Renewable Energy<br>- Energy Storage Systems |  |
 |  | 2.8 Manufacturing Processes | \- Material Removal<br>- Forming<br>- Joining<br>- Additive Manufacturing<br>- Quality Control |  |
-```
+
 
 **Note:** The question probability indicates the approximate number of questions per topic on the FE Exam - Mechanical. The exact number of questions per topic may vary, as the distribution is based on the exam specifications provided by NCEES.
 
