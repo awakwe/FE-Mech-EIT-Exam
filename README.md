@@ -11,60 +11,62 @@ comment:  This document is a simple LiaScript course example.
 
 -->
 
-# High School Physics
+# Fundumentals of Engineering Mechanical Engineer in Traing Exam
 
-## Pre-Assessment Quiz
 
-Before we dive into the topics covered in this module, it's important to evaluate your current understanding of high school physics. Take this pre-assessment quiz to gauge your knowledge and pinpoint areas where you may need to focus your study.
+FE Exam Mechanical Study Guide Outline
+======================================
 
-[Click here to take the pre-assessment quiz.](insert quiz link here)
+Introduction
+------------
 
-Once you've completed the quiz, review your results and identify the topics where you scored the lowest. Concentrate on these topics during the rest of the module.
+* Purpose of the FE Exam
+* Eligibility criteria
+* Exam duration and format
 
-In the Pre-Assessment Quiz, you will be asked a series of multiple-choice questions that cover a range of topics in high school physics. The quiz is designed to help you evaluate your current knowledge and identify areas where you may need to focus your study. Once you've completed the quiz, you will be able to review your results and see which topics you need to work on. This will help you get the most out of the rest of the module and be better prepared for future studies in high school physics.
+Exam Specifications
+-------------------
 
-> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+* Total number of questions: 110 multiple-choice questions
+* Computer-based testing
+* Administered at NCEES-approved testing centers
+* Two main sections: General Engineering and Mechanical Engineering
+* Morning and afternoon sessions
 
-## Introduction
+Key Topics and Knowledge Areas
+------------------------------
 
-In this module, we will be learning the basics of high school physics, which is an essential branch of science that deals with the fundamental principles of matter, energy, and their interactions. This module is designed for high school students who are new to physics or need a refresher on the basics.
-> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+### General Engineering
 
-## Topics
-> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+1. Mathematics
+2. Engineering Probability and Statistics
+3. Engineering Economics
+4. Statics
+5. Dynamics
+6. Mechanics of Materials
+7. Fluid Mechanics
+8. Thermodynamics
+9. Material Science
 
-### 1. Mechanics
+### Mechanical Engineering
 
-In this section, we will learn about mechanics, which is the study of motion, forces, and energy. We will also learn about Newton's laws of motion, work, and energy.
-> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+1. Heat Transfer
+2. Mechanical Design and Analysis
+3. Control Systems
+4. Vibration
+5. Mechanical Measurement and Instrumentation
+6. HVAC and Refrigeration
+7. Energy Conversion Systems
+8. Manufacturing Processes
 
-### 2. Waves and Sound
+Distribution of Questions
+-------------------------
 
-In this section, we will explore waves and sound, learning about the properties of waves, wave interference, and the characteristics of sound.
-> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
+* General Engineering: Approximately 55 questions
+* Mechanical Engineering: Approximately 55 questions
+* Exact number of questions per topic may vary; weightage is based on the exam specifications provided by NCEES
 
-### 3. Light and Optics
-
-In this section, we will study light and optics, focusing on the behavior of light, reflection, refraction, and lenses.
-> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
-
-### 4. Electricity and Magnetism
-
-In this section, we will investigate electricity and magnetism, covering electric charges, electric fields, magnetic fields, and electromagnetic induction.
-> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
-
-### 5. Thermodynamics
-> 📢 **Coming Soon!** We're currently working on providing detailed information for various tutoring subjects. Stay tuned for comprehensive explanations and examples. In the meantime, if you have any specific questions or need assistance, feel free to call, text, or email Tony Tutoring ASAP!
-
-In this section, we will learn about thermodynamics, which is the study of heat and temperature and their relationship to energy and work.
-
-## Quizzes
-
-Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you evaluate your understanding and identify areas where you may need to review.
-
-## Active Learning Strategies
-
-During the virtual lecture, we will use active learning strategies to engage with the material and deepen our understanding. These strategies may include group discussions, problem-solving activities, and interactive simulations.
+**Note:** The FE Exam - Mechanical consists of 110 multiple-choice questions, divided into two sections: General Engineering and Mechanical Engineering. Each section contains approximately 55 questions, covering a range of topics as outlined above. The exact number of questions per topic may vary, as the distribution is based on the exam specifications provided by NCEES.
 
 ## Conclusion
 
