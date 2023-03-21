@@ -72,6 +72,6 @@ Distribution of Questions
 
 By the end of this module, you should have a strong foundation in high school physics and be able to apply your knowledge to solve real-world problems.
 
-[preview-lia](https://raw.githubusercontent.com/awakwe/HighSchoolPhysics/main/README.md)
+[preview-lia](https://raw.githubusercontent.com/awakwe/FE-Mech-EIT-Exam/main/README.md)
 
-[Preview-Lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/awakwe/HighSchoolPhysics/main/README.md)
+[Preview-Lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/awakwe/FE-Mech-EIT-Exam/main/README.md)
