@@ -65,14 +65,119 @@ comment:  This document is a simple LiaScript course example.
 ## General Engineering
 
 1. Mathematics
-2. Engineering Probability and Statistics
-3. Engineering Economics
-4. Statics
-5. Dynamics
-6. Mechanics of Materials
-7. Fluid Mechanics
-8. Thermodynamics
-9. Material Science
+### 1.1 Mathematics 🧮
+------------------
+
+Mathematics is a crucial topic for the FE Mechanical Exam. It forms the basis for understanding and solving engineering problems. Let's dive into the subtopics with some emojis.
+
+#### 1.1.1 Algebra ➕➖✖️➗
+
+*   Linear Equations and Inequalities
+*   Quadratic Equations
+*   Systems of Equations
+*   Polynomials
+*   Exponents and Logarithms
+*   Complex Numbers 🔢
+
+Here are quiz questions for each topic, formatted in LiaScript Markdown:
+
+Linear Equations and Inequalities 📐
+
+Solve the linear inequality: $2x - 5 > 7$
+
+[[ $x > 6$ | ( $x > 6$ ) | $x < 6$ ]]
+
+Quadratic Equations 🎯
+
+What are the solutions for the quadratic equation $x^2 - 5x + 6 = 0$?
+
+[[ ( $(2, 3)$ ) | $(1, 4)$ | $(-2, -3)$ ]]
+
+Systems of Equations 🧮
+
+Solve the following system of equations:
+
+{
+𝑥
++
+𝑦
+=
+6
+
+
+𝑥
+−
+𝑦
+=
+2
+{
+x+y=6
+x−y=2
+	​
+
+
+[[ ( $(4, 2)$ ) | $(2, 4)$ | $(3, 3)$ ]]
+
+Polynomials 🔢
+
+What is the degree of the polynomial $3x^4 - 5x^2 + 7x - 2$?
+
+[[2 | ( 4 ) | 3]]
+
+Exponents and Logarithms 🔥
+
+Simplify the expression: $log_{2}(8) - log_{2}(4)$
+
+[[1 | ( 1 ) | 2]]
+
+Complex Numbers 🔢
+
+What is the conjugate of the complex number $3 + 4i$?
+
+[[ ( $3 - 4i$ ) | $3 + 4i$ | $-3 + 4i$ ]]
+
+#### 1.1.2 Trigonometry 📐
+
+*   Trigonometric Functions (sin, cos, tan, etc.)
+*   Inverse Trigonometric Functions
+*   Trigonometric Identities 🆔
+*   Right Triangle Trigonometry
+*   Laws of Sines and Cosines
+
+#### 1.1.3 Calculus 📈
+
+*   Limits and Continuity
+*   Differentiation (Derivatives) 💹
+*   Integration (Integrals) 📉
+*   Applications of Integration
+*   Multivariable Calculus
+*   Differential Equations (ODEs and PDEs) 🌀
+
+#### 1.1.4 Linear Algebra 🧩
+
+*   Matrices and Matrix Operations
+*   Systems of Linear Equations
+*   Determinants
+*   Eigenvalues and Eigenvectors
+*   Vector Spaces and Linear Transformations
+
+#### 1.1.5 Numerical Methods 💻
+
+*   Root Finding (Bisection, Newton-Raphson)
+*   Interpolation and Curve Fitting
+*   Numerical Differentiation and Integration
+*   Numerical Solutions of ODEs and PDEs
+*   Optimization (Linear and Nonlinear Programming)
+
+
+### 3. Engineering Probability and Statistics
+### 4. Engineering Economics
+### 5. Statics
+### 6. Dynamics
+### 7. Mechanics of Materials
+### 8. Fluid Mechanics
+### 9. Thermodynamics
+### 10. Material Science
 
 ## Mechanical Engineering
 
